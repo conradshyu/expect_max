@@ -19,10 +19,7 @@
  * if the training dataset does not possess enough discriminant power, increased number
  * of iterations will not improve convergence.
  *
- * Written by Conrad Shyu (conrad.shyu@nih.gov)
- * Bioinformatics and Biological Sciences (BCBB)
- * National Institute of Allergy and Infectious Diseases (NIAID)
- * Rockville, MD 20852
+ * Written by Conrad Shyu (conradshyu@yahoo.com)
  *
  * Revised on June 7, 2016
  * Revised on November 25, 2020
@@ -68,7 +65,7 @@ random values for the missing data points, and using those guesses to estimate a
 set of data. The new values are used to create a better guess for the first set, and the
 process continues until the algorithm converges on a fixed point.
 
-Written by Conrad Shyu (conrad.shyu@nih.gov)
+Written by Conrad Shyu (conradshyu@yahoo.com)
 EOT;
 
 $epilog = <<<'EOT'
