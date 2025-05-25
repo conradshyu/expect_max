@@ -16,7 +16,7 @@ random values for the missing data points, and using those guesses to estimate a
 set of data. The new values are used to create a better guess for the first set, and the
 process continues until the algorithm converges on a fixed point.
 
-Written by Conrad Shyu (conrad.shyu@nih.gov)
+Written by Conrad Shyu (conradshyu@yahoo.com)
 
 optional arguments:
   -h, --help                      Show this help message and exit.
